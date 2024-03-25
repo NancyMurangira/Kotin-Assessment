@@ -1,13 +1,14 @@
 fun main(){
 Calculate(4)
- isPalindrome("madam")
+    statistics(arrayOf(10,20,30))
+    isPalindrome("madam")
 }
 
 
 // Question 1
 
 fun fullSentence(word:String){
- var NewWord = word.sub()
+
 }
 
 //Question 2

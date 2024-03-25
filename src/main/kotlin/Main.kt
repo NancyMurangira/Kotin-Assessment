@@ -7,15 +7,17 @@ Calculate(4)
 // Question 1
 
 fun fullSentence(word:String){
- var NewWord = word.()
+ var NewWord = word.sub()
 }
 
 //Question 2
 
- val statistics = arrayOf(10,20,30){
-    println(statistics.sum())
-    println(statistics.size())
-    println(statistics.average())
+ fun statistics(numbers:Array<Int>){
+    println(numbers.sum())
+     println(numbers.count())
+    println(numbers.average())
+
+
 }
 
 
